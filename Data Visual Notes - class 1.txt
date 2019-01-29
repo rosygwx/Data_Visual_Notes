@@ -1,0 +1,4 @@
+1. Data visualization is not only about transforming data into charts, but also, and more important it's about information.
+2. People's knowledge would limit ones imagination. Data Visualization has more functions itself.
+3. Tableau is a tool to do data visualization. There are other tools like Power BI, AWS Data Visualization tools and etc.
+4. Data visualization is one track of data analysis, and will make the analysis process much easier.
